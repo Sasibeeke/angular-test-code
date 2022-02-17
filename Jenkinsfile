@@ -11,7 +11,7 @@ pipeline {
             steps {
                 echo 'Angular Test Project GitHub Repository Code Checkout'
                 // Get some code from a GitHub repository
-                git 'https://github.com/swagat030/angular-test-code.git'
+                git 'https://github.com/Sasibeeke/angular-test-code.git'
                 
             }
         }
